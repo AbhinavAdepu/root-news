@@ -66,7 +66,7 @@ const App = () => {
                 <span></span>
                 <span></span>
               </div>
-              <div className="head-text">NY Times Most Popular Article</div>
+              <div className="head-text">ROOT FOR NEWS</div>
 
               {
                 <>
